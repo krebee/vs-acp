@@ -1,0 +1,1 @@
+Temporary build trigger for Duo Open v1.0.0 from source commit 2008747ceaabc22da030e4d93430ee8ed4677a0c.
